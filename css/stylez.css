@@ -2190,7 +2190,7 @@ a {
     grid-column-gap: 56px;
     grid-row-gap: 56px;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
-    background-image: url("./../images/bg.gif"); /* The image used */
+    background-image: url("./../images/bgg.jpg"); /* The image used */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -2904,7 +2904,7 @@ a {
         grid-column-gap: 16px;
         grid-row-gap: 16px;
         box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
-        background-image: url("../images/bg.gif");
+        background-image: url("../images/bgg.jpg");
 
 
         flex-direction: column;
